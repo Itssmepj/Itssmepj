@@ -3,20 +3,15 @@
 
 - 🔭 I’m currently working on [Treasure of India](https://github.com/Itssmepj/Treasures-of-India)
 
-- 🌱 I’m currently learning **Figma**
+- 🌻 I’m currently learning **Figma**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-two-sand-98.vercel.app/](https://my-portfolio-two-sand-98.vercel.app/)
+- 🚀 All of my projects are available at [https://my-portfolio-two-sand-98.vercel.app/](https://my-portfolio-two-sand-98.vercel.app/)
 
-- 📫 How to reach me **09887277789**
-
-- ⚡ Fun fact **I once wanted to become a Doctor.**
+- ⚡ Fun fact : **I once wanted to become a Doctor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-# 💫 About Me:
-🔭 I’m currently working on a website to showcase old & antique Indian Banknotes.<br>🤝 I’m looking for help with Freelancing .<br>🌱 I’m currently learning Figma :)<br>⚡ Fun fact : I once wanted to become a Doctor.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pranjal-l-67935524a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/callme_pj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@thepjtales) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@itssme_pj) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@itssme_pj) 
