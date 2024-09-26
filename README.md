@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranjal</h1>
 <h3 align="center">A passionate Frontend & Wordpress developer from India</h3>
 
-- 🔭 I’m currently working on [Treasure of India](https://github.com/Itssmepj/Treasures-of-India)
+- 🔭 I’m currently working on [Food is Life](https://github.com/Itssmepj/food-is-life)
 
 - 🌻 I’m currently learning **Figma**
 
