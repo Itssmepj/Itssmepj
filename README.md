@@ -16,7 +16,7 @@
 </p>
 
 **<h3>🌐 Socials:</h3>**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pranjal-l-67935524a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/callme_pj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@thepjtales) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@itssme_pj) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@itssme_pj) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pranjal-l-67935524a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/callme_pj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@thepjtales) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@itssme_pj) 
 <br><br>
 
  # <h3>💻 Tech Stack:</h3>
