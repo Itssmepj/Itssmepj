@@ -5,8 +5,8 @@
 
 - 🌻 I’m currently learning **Figma**
 
-- 🚀 All of my projects are available at [https://my-portfolio-two-sand-98.vercel.app/](https://my-portfolio-two-sand-98.vercel.app/)
-
+- 🚀 All of my projects are available at [https://petite-patriot-h3.zipwp.dev/](https://petite-patriot-h3.zipwp.dev/)
+ 
 - ⚡ Fun fact : **I once wanted to become a Doctor.**
 
   <br>
