@@ -5,7 +5,7 @@
 
 - 🌻 I’m currently learning **Figma**
 
-- 🚀 All of my projects are available at [https://petite-patriot-h3.zipwp.dev/](https://petite-patriot-h3.zipwp.dev/)
+- 🚀 All of my projects are available at [My Portfolio](https://petite-patriot-h3.zipwp.dev/)
  
 - ⚡ Fun fact : **I once wanted to become a Doctor.**
 
