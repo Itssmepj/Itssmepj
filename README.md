@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Pranjal</h1>
-<h3 align="center">A passionate Frontend & Wordpress developer from India</h3>
+<h3 align="center">A Passionate Frontend & Wordpress developer from India</h3>
 
 - 🔭 I’m currently working on [R.K Digital Studio & Events](https://rkdigital.in)
 
