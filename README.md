@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Pranjal</h1>
 <h3 align="center">A Passionate Frontend & Wordpress developer from India</h3>
 
-- 🔭 I’m currently working on [AVISKCON](https://aviskcon.com)
+- 🔭 I’m currently working on [ISS Delhi](https://issdelhi.org)
 
 - 🌻 I’m currently learning **Figma**
 
